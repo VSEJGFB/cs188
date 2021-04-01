@@ -1,0 +1,369 @@
+Starting on 4-1 at 23:15:01
+
+Question q4
+===========
+
+start,numAgent=2,depth=2
+getscore= 1.0
+*** PASS: test_cases/q4/0-eval-function-lose-states-1.test
+start,numAgent=2,depth=2
+getscore= 1.0
+*** PASS: test_cases/q4/0-eval-function-lose-states-2.test
+start,numAgent=2,depth=2
+getscore= 1.0
+*** PASS: test_cases/q4/0-eval-function-win-states-1.test
+start,numAgent=2,depth=2
+getscore= 1.0
+*** PASS: test_cases/q4/0-eval-function-win-states-2.test
+start,numAgent=2,depth=2
+getscore= 7.666666666666667
+*** PASS: test_cases/q4/0-expectimax1.test
+start,numAgent=2,depth=2
+getscore= 8.0
+*** PASS: test_cases/q4/1-expectimax2.test
+start,numAgent=2,depth=3
+getscore= 9.5
+*** PASS: test_cases/q4/2-one-ghost-3level.test
+start,numAgent=2,depth=4
+getscore= 9.5
+*** PASS: test_cases/q4/3-one-ghost-4level.test
+start,numAgent=3,depth=3
+getscore= 7.0
+*** PASS: test_cases/q4/4-two-ghosts-3level.test
+start,numAgent=3,depth=4
+getscore= 10.25
+*** PASS: test_cases/q4/5-two-ghosts-4level.test
+start,numAgent=2,depth=1
+getscore= 10.0
+*** PASS: test_cases/q4/6-1a-check-depth-one-ghost.test
+start,numAgent=2,depth=2
+getscore= 10.0
+*** PASS: test_cases/q4/6-1b-check-depth-one-ghost.test
+start,numAgent=2,depth=3
+getscore= 8.0
+*** PASS: test_cases/q4/6-1c-check-depth-one-ghost.test
+start,numAgent=3,depth=1
+getscore= 10.0
+*** PASS: test_cases/q4/6-2a-check-depth-two-ghosts.test
+start,numAgent=3,depth=2
+getscore= 10.0
+*** PASS: test_cases/q4/6-2b-check-depth-two-ghosts.test
+start,numAgent=3,depth=3
+getscore= 8.0
+*** PASS: test_cases/q4/6-2c-check-depth-two-ghosts.test
+*** Running ExpectimaxAgent on smallClassic 1 time(s).
+start,numAgent=3,depth=2
+getscore= 18.0
+start,numAgent=3,depth=2
+getscore= 27.0
+start,numAgent=3,depth=2
+getscore= 36.0
+start,numAgent=3,depth=2
+getscore= 45.0
+start,numAgent=3,depth=2
+getscore= 54.0
+start,numAgent=3,depth=2
+getscore= 63.0
+start,numAgent=3,depth=2
+getscore= 72.0
+start,numAgent=3,depth=2
+getscore= 81.0
+start,numAgent=3,depth=2
+getscore= 90.0
+start,numAgent=3,depth=2
+getscore= 99.0
+start,numAgent=3,depth=2
+getscore= 108.0
+start,numAgent=3,depth=2
+getscore= 117.0
+start,numAgent=3,depth=2
+getscore= 121.0
+start,numAgent=3,depth=2
+getscore= 117.5
+start,numAgent=3,depth=2
+getscore= 114.0
+start,numAgent=3,depth=2
+getscore= 113.0
+start,numAgent=3,depth=2
+getscore= 112.0
+start,numAgent=3,depth=2
+getscore= 111.0
+start,numAgent=3,depth=2
+getscore= 110.0
+start,numAgent=3,depth=2
+getscore= 109.0
+start,numAgent=3,depth=2
+getscore= 108.0
+start,numAgent=3,depth=2
+getscore= 117.0
+start,numAgent=3,depth=2
+getscore= 126.0
+start,numAgent=3,depth=2
+getscore= 135.0
+start,numAgent=3,depth=2
+getscore= 324.0
+start,numAgent=3,depth=2
+getscore= 333.0
+start,numAgent=3,depth=2
+getscore= 342.0
+start,numAgent=3,depth=2
+getscore= 351.0
+start,numAgent=3,depth=2
+getscore= 360.0
+start,numAgent=3,depth=2
+getscore= 369.0
+start,numAgent=3,depth=2
+getscore= 378.0
+start,numAgent=3,depth=2
+getscore= 387.0
+start,numAgent=3,depth=2
+getscore= 386.0
+start,numAgent=3,depth=2
+getscore= 385.0
+start,numAgent=3,depth=2
+getscore= 384.0
+start,numAgent=3,depth=2
+getscore= 383.0
+start,numAgent=3,depth=2
+getscore= 382.0
+start,numAgent=3,depth=2
+getscore= 381.0
+start,numAgent=3,depth=2
+getscore= 380.0
+start,numAgent=3,depth=2
+getscore= 379.0
+start,numAgent=3,depth=2
+getscore= 378.0
+start,numAgent=3,depth=2
+getscore= 377.0
+start,numAgent=3,depth=2
+getscore= 376.0
+start,numAgent=3,depth=2
+getscore= 375.0
+start,numAgent=3,depth=2
+getscore= 374.0
+start,numAgent=3,depth=2
+getscore= 373.0
+start,numAgent=3,depth=2
+getscore= 372.0
+start,numAgent=3,depth=2
+getscore= 371.0
+start,numAgent=3,depth=2
+getscore= 370.0
+start,numAgent=3,depth=2
+getscore= 369.0
+start,numAgent=3,depth=2
+getscore= 368.0
+start,numAgent=3,depth=2
+getscore= 367.0
+start,numAgent=3,depth=2
+getscore= 366.0
+start,numAgent=3,depth=2
+getscore= 365.0
+start,numAgent=3,depth=2
+getscore= 364.0
+start,numAgent=3,depth=2
+getscore= 363.0
+start,numAgent=3,depth=2
+getscore= 372.0
+start,numAgent=3,depth=2
+getscore= 381.0
+start,numAgent=3,depth=2
+getscore= 390.0
+start,numAgent=3,depth=2
+getscore= 399.0
+start,numAgent=3,depth=2
+getscore= 408.0
+start,numAgent=3,depth=2
+getscore= 417.0
+start,numAgent=3,depth=2
+getscore= 426.0
+start,numAgent=3,depth=2
+getscore= 435.0
+start,numAgent=3,depth=2
+getscore= 444.0
+start,numAgent=3,depth=2
+getscore= 453.0
+start,numAgent=3,depth=2
+getscore= 462.0
+start,numAgent=3,depth=2
+getscore= 471.0
+start,numAgent=3,depth=2
+getscore= 480.0
+start,numAgent=3,depth=2
+getscore= 489.0
+start,numAgent=3,depth=2
+getscore= 498.0
+start,numAgent=3,depth=2
+getscore= 497.0
+start,numAgent=3,depth=2
+getscore= 496.0
+start,numAgent=3,depth=2
+getscore= 495.0
+start,numAgent=3,depth=2
+getscore= 494.0
+start,numAgent=3,depth=2
+getscore= 493.0
+start,numAgent=3,depth=2
+getscore= 492.0
+start,numAgent=3,depth=2
+getscore= 501.0
+start,numAgent=3,depth=2
+getscore= 510.0
+start,numAgent=3,depth=2
+getscore= 519.0
+start,numAgent=3,depth=2
+getscore= 528.0
+start,numAgent=3,depth=2
+getscore= 537.0
+start,numAgent=3,depth=2
+getscore= 536.0
+start,numAgent=3,depth=2
+getscore= 535.0
+start,numAgent=3,depth=2
+getscore= 534.0
+start,numAgent=3,depth=2
+getscore= 533.0
+start,numAgent=3,depth=2
+getscore= 532.0
+start,numAgent=3,depth=2
+getscore= 531.0
+start,numAgent=3,depth=2
+getscore= 530.0
+start,numAgent=3,depth=2
+getscore= 529.0
+start,numAgent=3,depth=2
+getscore= 528.0
+start,numAgent=3,depth=2
+getscore= 527.0
+start,numAgent=3,depth=2
+getscore= 526.0
+start,numAgent=3,depth=2
+getscore= 525.0
+start,numAgent=3,depth=2
+getscore= 524.0
+start,numAgent=3,depth=2
+getscore= 523.0
+start,numAgent=3,depth=2
+getscore= 522.0
+start,numAgent=3,depth=2
+getscore= 521.0
+start,numAgent=3,depth=2
+getscore= 520.0
+start,numAgent=3,depth=2
+getscore= 519.0
+start,numAgent=3,depth=2
+getscore= 518.0
+start,numAgent=3,depth=2
+getscore= 517.0
+start,numAgent=3,depth=2
+getscore= 516.0
+start,numAgent=3,depth=2
+getscore= 515.0
+start,numAgent=3,depth=2
+getscore= 514.0
+start,numAgent=3,depth=2
+getscore= 513.0
+start,numAgent=3,depth=2
+getscore= 512.0
+start,numAgent=3,depth=2
+getscore= 511.0
+start,numAgent=3,depth=2
+getscore= 510.0
+start,numAgent=3,depth=2
+getscore= 509.0
+start,numAgent=3,depth=2
+getscore= 508.0
+start,numAgent=3,depth=2
+getscore= 507.0
+start,numAgent=3,depth=2
+getscore= 506.0
+start,numAgent=3,depth=2
+getscore= 505.0
+start,numAgent=3,depth=2
+getscore= 504.0
+start,numAgent=3,depth=2
+getscore= 503.0
+start,numAgent=3,depth=2
+getscore= 502.0
+start,numAgent=3,depth=2
+getscore= 501.0
+start,numAgent=3,depth=2
+getscore= 500.0
+start,numAgent=3,depth=2
+getscore= 499.0
+start,numAgent=3,depth=2
+getscore= 498.0
+start,numAgent=3,depth=2
+getscore= 497.0
+start,numAgent=3,depth=2
+getscore= 496.0
+start,numAgent=3,depth=2
+getscore= 495.0
+start,numAgent=3,depth=2
+getscore= 494.0
+start,numAgent=3,depth=2
+getscore= 493.0
+start,numAgent=3,depth=2
+getscore= 492.0
+start,numAgent=3,depth=2
+getscore= 491.0
+start,numAgent=3,depth=2
+getscore= 490.0
+start,numAgent=3,depth=2
+getscore= 489.0
+start,numAgent=3,depth=2
+getscore= 488.0
+start,numAgent=3,depth=2
+getscore= 487.0
+start,numAgent=3,depth=2
+getscore= 486.0
+start,numAgent=3,depth=2
+getscore= 495.0
+start,numAgent=3,depth=2
+getscore= 504.0
+start,numAgent=3,depth=2
+getscore= 513.0
+start,numAgent=3,depth=2
+getscore= 522.0
+start,numAgent=3,depth=2
+getscore= 531.0
+start,numAgent=3,depth=2
+getscore= 540.0
+start,numAgent=3,depth=2
+getscore= 549.0
+start,numAgent=3,depth=2
+getscore= 558.0
+start,numAgent=3,depth=2
+getscore= 567.0
+start,numAgent=3,depth=2
+getscore= 576.0
+start,numAgent=3,depth=2
+getscore= 585.0
+start,numAgent=3,depth=2
+getscore= 334.0
+start,numAgent=3,depth=2
+getscore= 84.0
+Pacman died! Score: 84
+Average Score: 84.0
+Scores:        84.0
+Win Rate:      0/1 (0.00)
+Record:        Loss
+*** Finished running ExpectimaxAgent on smallClassic after 0 seconds.
+*** Won 0 out of 1 games. Average score: 84.000000 ***
+*** PASS: test_cases/q4/7-pacman-game.test
+
+### Question q4: 5/5 ###
+
+
+Finished at 23:15:02
+
+Provisional grades
+==================
+Question q4: 5/5
+------------------
+Total: 5/5
+
+Your grades are NOT yet registered.  To register your grades, make sure
+to follow your instructor's guidelines to receive credit on your project.
+

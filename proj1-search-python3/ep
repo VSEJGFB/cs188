@@ -1,0 +1,82 @@
+A random puzzle:
+-------------
+| 1 | 4 | 2 |
+-------------
+| 7 | 6 |   |
+-------------
+| 3 | 8 | 5 |
+-------------
+BFS found a path of 9 moves: ['down', 'left', 'up', 'left', 'down', 'right', 'up', 'up', 'left']
+After 1 move: down
+-------------
+| 1 | 4 | 2 |
+-------------
+| 7 | 6 | 5 |
+-------------
+| 3 | 8 |   |
+-------------
+Press return for the next state...After 2 moves: left
+-------------
+| 1 | 4 | 2 |
+-------------
+| 7 | 6 | 5 |
+-------------
+| 3 |   | 8 |
+-------------
+Press return for the next state...After 3 moves: up
+-------------
+| 1 | 4 | 2 |
+-------------
+| 7 |   | 5 |
+-------------
+| 3 | 6 | 8 |
+-------------
+Press return for the next state...After 4 moves: left
+-------------
+| 1 | 4 | 2 |
+-------------
+|   | 7 | 5 |
+-------------
+| 3 | 6 | 8 |
+-------------
+Press return for the next state...After 5 moves: down
+-------------
+| 1 | 4 | 2 |
+-------------
+| 3 | 7 | 5 |
+-------------
+|   | 6 | 8 |
+-------------
+Press return for the next state...After 6 moves: right
+-------------
+| 1 | 4 | 2 |
+-------------
+| 3 | 7 | 5 |
+-------------
+| 6 |   | 8 |
+-------------
+Press return for the next state...After 7 moves: up
+-------------
+| 1 | 4 | 2 |
+-------------
+| 3 |   | 5 |
+-------------
+| 6 | 7 | 8 |
+-------------
+Press return for the next state...After 8 moves: up
+-------------
+| 1 |   | 2 |
+-------------
+| 3 | 4 | 5 |
+-------------
+| 6 | 7 | 8 |
+-------------
+Press return for the next state...After 9 moves: left
+-------------
+|   | 1 | 2 |
+-------------
+| 3 | 4 | 5 |
+-------------
+| 6 | 7 | 8 |
+-------------
+Press return for the next state...
